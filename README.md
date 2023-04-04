@@ -1,3 +1,5 @@
-# Omnifood is a Restaurant Website.
+# Omnifood
 
-Contributors: Michael Naga
+Omnifood is a fictitious Restaurant Website. Course taught by Jonas Schmedtmann on Udemy
+
+Contributor: Michael Naga
